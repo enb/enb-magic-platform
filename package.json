@@ -1,0 +1,44 @@
+{
+  "author": "Andrew Abramov <andrewblond@yandex.com>",
+  "name": "enb-magic-platform",
+  "version": "0.0.0",
+  "description": "",
+  "repository": "git://github.com/enb-bem/enb-magic-platform",
+  "homepage": "https://github.com/enb-bem/enb-magic-platform",
+  "bugs": "https://github.com/enb-bem/enb-magic-platform/issues",
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/enb-bem/enb-magic-platform/blob/master/LICENSE"
+  }],
+  "contributors": [
+    {
+      "name": "Andrew Abramov",
+      "email": "andrewblond@yandex.com"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "peerDependencies": {
+    "enb": ">= 0.13.0"
+  },
+  "dependencies": {
+    "coa": "0.4.1",
+    "vow": "0.4.5",
+    "inherit": "2.2.2",
+    "connect": "3.2.0",
+    "send": "0.9.2",
+    "mime": "1.2.11",
+    "serve-static": "1.6.2"
+  },
+  "devDependencies": {
+    "enb": ">= 0.13.0",
+    "jshint": "2.5.5",
+    "jscs": "1.6.2"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "jshint . && jscs -c .jscs.js ."
+  }
+}

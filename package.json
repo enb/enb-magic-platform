@@ -26,13 +26,13 @@
     "coa": "0.4.1",
     "vow": "0.4.5",
     "connect": "3.2.0",
-    "send": "0.9.2",
+    "send": "0.9.3",
     "mime": "1.2.11",
-    "serve-static": "1.6.2"
+    "serve-static": "1.6.3"
   },
   "devDependencies": {
     "enb": ">= 0.13.0",
-    "jshint": "2.5.5",
+    "jshint": "2.5.6",
     "jscs": "1.6.2"
   },
   "main": "lib/index.js",

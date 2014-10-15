@@ -28,7 +28,8 @@
     "colors": "1.0.3",
     "connect": "3.2.0",
     "serve-favicon": "2.1.5",
-    "serve-static": "1.6.3"
+    "serve-static": "1.6.3",
+    "serve-index": "1.4.0"
   },
   "devDependencies": {
     "enb": ">= 0.13.0",

@@ -25,6 +25,7 @@
   "dependencies": {
     "coa": "0.4.1",
     "vow": "0.4.5",
+    "colors": "1.0.3",
     "connect": "3.2.0",
     "serve-static": "1.6.3"
   },

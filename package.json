@@ -1,8 +1,8 @@
 {
   "author": "Andrew Abramov <andrewblond@yandex.com>",
   "name": "enb-magic-platform",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "ENB make platform to create nodes and targets in runtime",
   "repository": "git://github.com/enb-bem/enb-magic-platform",
   "homepage": "https://github.com/enb-bem/enb-magic-platform",
   "bugs": "https://github.com/enb-bem/enb-magic-platform/issues",

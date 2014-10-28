@@ -12,3 +12,8 @@ npm install --save-dev enb-magic-platform
 ```
 
 Для работы модуля требуется зависимость от пакетов `enb-magic-factory` версии `0.3.0` или выше, а также `enb` версии `0.13.0` или выше.
+
+Лицензия
+--------
+
+© 2014 YANDEX LLC. Код лицензирован [Mozilla Public License 2.0](LICENSE.txt).

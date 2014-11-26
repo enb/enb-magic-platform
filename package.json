@@ -35,6 +35,9 @@
     "jscs": "1.7.3"
   },
   "main": "lib/index.js",
+  "bin": {
+    "magic": "./bin/magic"
+  },
   "scripts": {
     "test": "npm run lint",
     "lint": "jshint . && jscs -c .jscs.js ."

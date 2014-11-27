@@ -17,22 +17,22 @@
   },
   "peerDependencies": {
     "enb": ">= 0.13.0 < 1.0.0",
-    "enb-magic-factory": ">= 0.3.0 < 1.0.0"
+    "enb-magic-factory": ">= 0.4.0 < 1.0.0"
   },
   "dependencies": {
     "coa": "0.4.1",
     "vow": "0.4.7",
     "colors": "1.0.3",
-    "connect": "3.3.2",
-    "serve-favicon": "2.1.6",
+    "connect": "3.3.3",
+    "serve-favicon": "2.1.7",
     "serve-static": "1.7.1",
-    "serve-index": "1.5.0"
+    "serve-index": "1.5.1"
   },
   "devDependencies": {
     "enb": ">= 0.13.0 < 1.0.0",
     "enb-magic-factory": ">= 0.3.0 < 1.0.0",
-    "jshint": "2.5.8",
-    "jscs": "1.7.3"
+    "jshint": "2.5.10",
+    "jscs": "1.8.0"
   },
   "main": "lib/index.js",
   "bin": {

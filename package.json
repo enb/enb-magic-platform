@@ -20,13 +20,13 @@
     "enb-magic-factory": ">= 0.4.0 < 1.0.0"
   },
   "dependencies": {
+    "chalk": "0.5.1",
     "coa": "0.4.1",
-    "vow": "0.4.7",
-    "colors": "1.0.3",
     "connect": "3.3.3",
     "serve-favicon": "2.1.7",
+    "serve-index": "1.5.1",
     "serve-static": "1.7.1",
-    "serve-index": "1.5.1"
+    "vow": "0.4.7"
   },
   "devDependencies": {
     "enb": ">= 0.13.0 < 1.0.0",

@@ -21,17 +21,17 @@
   },
   "dependencies": {
     "chalk": "0.5.1",
-    "coa": "0.4.1",
+    "coa": "1.0.0",
     "connect": "3.3.4",
     "serve-favicon": "2.2.0",
-    "serve-index": "1.6.1",
-    "serve-static": "1.8.1",
+    "serve-index": "1.6.2",
+    "serve-static": "1.9.0",
     "vow": "0.4.8"
   },
   "devDependencies": {
     "enb": ">= 0.13.0 < 1.0.0",
     "enb-magic-factory": ">= 0.4.0 < 1.0.0",
-    "jscs": "1.10.0",
+    "jscs": "1.11.3",
     "jshint": "2.6.0"
   },
   "main": "lib/index.js",

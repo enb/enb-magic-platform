@@ -20,19 +20,19 @@
     "enb-magic-factory": ">= 0.4.0 < 1.0.0"
   },
   "dependencies": {
-    "chalk": "1.0.0",
+    "chalk": "1.1.1",
     "coa": "1.0.1",
-    "connect": "3.3.5",
-    "serve-favicon": "2.2.0",
-    "serve-index": "1.6.4",
-    "serve-static": "1.9.2",
-    "vow": "0.4.9"
+    "connect": "3.4.0",
+    "serve-favicon": "2.3.0",
+    "serve-index": "1.7.2",
+    "serve-static": "1.10.0",
+    "vow": "0.4.11"
   },
   "devDependencies": {
     "enb": ">= 0.14.0 < 2.0.0",
     "enb-magic-factory": ">= 0.4.0 < 1.0.0",
     "jscs": "1.13.1",
-    "jshint": "2.7.0"
+    "jshint": "2.8.0"
   },
   "main": "lib/index.js",
   "bin": {

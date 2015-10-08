@@ -1,6 +1,21 @@
 История изменений
 =================
 
+0.6.0
+-----
+
+### Крупные изменения
+
+* Добавлена поддержка `enb` версии `1.x` ([#51]).
+
+### Зависимости
+
+* Модуль `chalk@1.0.0` обновлён до версии `1.1.1`.
+* Модуль `connect@3.3.5` обновлён до версии `3.4.0`.
+* Модуль `serve-index@1.6.4` обновлён до версии `1.7.2`.
+* Модуль `serve-static@1.9.2` обновлён до версии `1.10.0`.
+* Модуль `vow@0.4.9` обновлён до версии `0.4.11`.
+
 0.5.0
 -----
 
@@ -89,6 +104,7 @@
 * Переход на `enb-magic-factory@0.3.x`.
 * Модуль `connect` обновлён до версии `3.3.0`.
 
+[#51]: https://github.com/enb-bem/enb-magic-platform/pull/51
 [#46]: https://github.com/enb-bem/enb-magic-platform/issues/46
 [#45]: https://github.com/enb-bem/enb-magic-platform/issues/45
 [#42]: https://github.com/enb-bem/enb-magic-platform/issues/42

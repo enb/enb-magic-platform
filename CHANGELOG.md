@@ -104,23 +104,23 @@
 * Переход на `enb-magic-factory@0.3.x`.
 * Модуль `connect` обновлён до версии `3.3.0`.
 
-[#51]: https://github.com/enb-bem/enb-magic-platform/pull/51
-[#46]: https://github.com/enb-bem/enb-magic-platform/issues/46
-[#45]: https://github.com/enb-bem/enb-magic-platform/issues/45
-[#42]: https://github.com/enb-bem/enb-magic-platform/issues/42
-[#40]: https://github.com/enb-bem/enb-magic-platform/issues/40
-[#39]: https://github.com/enb-bem/enb-magic-platform/issues/39
-[#38]: https://github.com/enb-bem/enb-magic-platform/issues/38
-[#37]: https://github.com/enb-bem/enb-magic-platform/issues/37
-[#36]: https://github.com/enb-bem/enb-magic-platform/issues/36
-[#27]: https://github.com/enb-bem/enb-magic-platform/issues/27
-[#24]: https://github.com/enb-bem/enb-magic-platform/issues/24
-[#23]: https://github.com/enb-bem/enb-magic-platform/issues/23
-[#22]: https://github.com/enb-bem/enb-magic-platform/issues/22
-[#20]: https://github.com/enb-bem/enb-magic-platform/issues/20
-[#18]: https://github.com/enb-bem/enb-magic-platform/issues/18
-[#13]: https://github.com/enb-bem/enb-magic-platform/issues/13
-[#9]: https://github.com/enb-bem/enb-magic-platform/issues/9
-[#7]: https://github.com/enb-bem/enb-magic-platform/issues/7
-[#5]: https://github.com/enb-bem/enb-magic-platform/issues/5
-[#3]: https://github.com/enb-bem/enb-magic-platform/issues/3
+[#51]: https://github.com/enb/enb-magic-platform/pull/51
+[#46]: https://github.com/enb/enb-magic-platform/issues/46
+[#45]: https://github.com/enb/enb-magic-platform/issues/45
+[#42]: https://github.com/enb/enb-magic-platform/issues/42
+[#40]: https://github.com/enb/enb-magic-platform/issues/40
+[#39]: https://github.com/enb/enb-magic-platform/issues/39
+[#38]: https://github.com/enb/enb-magic-platform/issues/38
+[#37]: https://github.com/enb/enb-magic-platform/issues/37
+[#36]: https://github.com/enb/enb-magic-platform/issues/36
+[#27]: https://github.com/enb/enb-magic-platform/issues/27
+[#24]: https://github.com/enb/enb-magic-platform/issues/24
+[#23]: https://github.com/enb/enb-magic-platform/issues/23
+[#22]: https://github.com/enb/enb-magic-platform/issues/22
+[#20]: https://github.com/enb/enb-magic-platform/issues/20
+[#18]: https://github.com/enb/enb-magic-platform/issues/18
+[#13]: https://github.com/enb/enb-magic-platform/issues/13
+[#9]: https://github.com/enb/enb-magic-platform/issues/9
+[#7]: https://github.com/enb/enb-magic-platform/issues/7
+[#5]: https://github.com/enb/enb-magic-platform/issues/5
+[#3]: https://github.com/enb/enb-magic-platform/issues/3

@@ -1,7 +1,7 @@
 enb-magic-platform
 ==================
 
-[![NPM version](http://img.shields.io/npm/v/enb-magic-platform.svg?style=flat)](http://www.npmjs.org/package/enb-magic-platform) [![Build Status](http://img.shields.io/travis/enb-bem/enb-magic-platform/master.svg?style=flat)](https://travis-ci.org/enb-bem/enb-magic-platform) [![Dependency Status](http://img.shields.io/david/enb-bem/enb-magic-platform.svg?style=flat)](https://david-dm.org/enb-bem/enb-magic-platform)
+[![NPM version](http://img.shields.io/npm/v/enb-magic-platform.svg?style=flat)](http://www.npmjs.org/package/enb-magic-platform) [![Build Status](http://img.shields.io/travis/enb/enb-magic-platform/master.svg?style=flat)](https://travis-ci.org/enb/enb-magic-platform) [![Dependency Status](http://img.shields.io/david/enb/enb-magic-platform.svg?style=flat)](https://david-dm.org/enb/enb-magic-platform)
 
 
 Установка:
